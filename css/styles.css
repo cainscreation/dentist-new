@@ -1,0 +1,37 @@
+h1,h2,h3,h4,h5{
+    color: #121248!important;
+}
+p,address{
+    font-size:80%;
+    color: #9f9f9f!important;
+}
+h6{
+    color:#21add0!important;
+    /* background-size: contain; */
+}
+.custom-card{
+    padding:50px 20px;
+    background-color: #f5f9fd;
+    margin-bottom: 20px;
+}
+.margin-x{
+    margin-top: 100px;
+    margin-bottom:100px ;
+}
+.text-b{
+
+    color:#21add0!important;
+    font-weight: bolder;
+}
+.btn{
+    border-radius: 1px!important;
+}
+.card:hover{
+    border-width:0 0 2px 0;
+    border-color:#21add0;
+    transition-duration: 50ms;
+}
+.card{
+    border-width:0;
+    border-radius: 1px;
+}
